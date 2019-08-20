@@ -2,7 +2,7 @@
 
 See this in live action on youtube:
 
-    https://www.youtube.com/watch?v=5rh-TRjJh3g
+https://www.youtube.com/watch?v=5rh-TRjJh3g
 
 A voice assistant based on python
 
